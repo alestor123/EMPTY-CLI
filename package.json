@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/alestor123/EMPTY-REPOS#readme",
   "dependencies": {
-    "gh-repos": "^1.0.11"
+    "axios": "^0.21.1"
   }
 }
